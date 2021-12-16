@@ -1,0 +1,452 @@
+{
+  "login": {
+    "title": "Welcome",
+    "subtitle": "Sign in to your account",
+    "email": {
+      "label": "Email",
+      "error": {
+        "required": "Email is required",
+        "invalid": "Email must be valid"
+      }
+    },
+    "password": {
+      "label": "Password",
+      "error": {
+        "required": "Password is required"
+      }
+    },
+    "forgot-password": "Forgot Password?",
+    "action": {
+      "label": "Login"
+    },
+    "helper": "Don't have an account?",
+    "signup": "Sign up"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "bsc": {
+      "label": "Balanced Scorecard",
+      "business-process": "Business Process",
+      "learn-growth": "Learning & Growth",
+      "customers": "Customers",
+      "finance": "Finance"
+    },
+    "master": {
+      "label": "Master Data",
+      "application": "Application",
+      "menu": "Menu",
+      "route": "Route",
+      "event-node": "Event Node",
+      "allergy": "Allergy",
+      "family-history": "Family History",
+      "medical-history": "Medical History",
+      "social-history": "Social History",
+      "symptom": "Symptom",
+      "soap-objective": "SOAP Objective",
+      "icd-10": "ICD-10",
+      "icd-9": "ICD-9",
+      "lab-category": "Lab Category",
+      "radiology-category": "Radiology Category",
+      "profession": "Profession",
+      "service": "Service",
+      "payment-method": "Payment Method",
+      "patient-type": "Patient Type"
+    },
+    "institution": {
+      "label": "Institution Management",
+      "institution": "Institution",
+      "department": "Department",
+      "division": "Division",
+      "service": "Service",
+      "event-node": "Event Node",
+      "fms": "FMS",
+      "employee": "Employee",
+      "role": "Role",
+      "lab-category": "Lab Category",
+      "radiology-category": "Radiology Category",
+      "payment-method": "Payment Method",
+      "cashier": "Cashier"
+    },
+    "divisions": "Divisions",
+    "departments": "Departments",
+    "administration": {
+      "label": "Administration",
+      "service-schedule": "Service Schedule"
+    },
+    "human-resources": {
+      "label": "Human Resources",
+      "staff": "Staff",
+      "staff-schedule": "Staff Schedule"
+    },
+    "finance": {
+      "label": "Finance",
+      "service": "Service",
+      "pharmacy": "Pharmacy"
+    },
+    "infrastructure": {
+      "label": "Infrastructure"
+    },
+    "front-office": {
+      "label": "Front Office",
+      "registered-patient": "Registered Patient",
+      "appointment": "Appointment",
+      "payment": "Payment"
+    },
+    "outpatient": {
+      "label": "Outpatient",
+      "scheduled": "Scheduled",
+      "active": "Active",
+      "monitoring": "Monitoring",
+      "history": "History"
+    },
+    "pharmacy": {
+      "label": "Pharmacy",
+      "drug-inventory": "Drug Inventory",
+      "receipt": "Receipt",
+      "packaging": "Packaging",
+      "collect-medicine": "Collect Medicine"
+    },
+    "radiology": {
+      "label": "Radiology"
+    },
+    "laboratory": {
+      "label": "Laboratory"
+    },
+    "blood-center": {
+      "label": "Blood Center"
+    }
+  },
+  "table": {
+    "search": "Search from {{total}} records",
+    "page": "Page {{pageNumber}} of {{totalPage}}",
+    "go-to-page": "Go to page",
+    "show": "Show",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "select-application": "Select Application",
+  "select-menu": "Select Menu",
+  "master-application": {
+    "name": "Name",
+    "description": "Description",
+    "platform": "Platform",
+    "create": "Create New Application",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-menu": {
+    "name": "Name",
+    "description": "Description",
+    "alias": "Alias",
+    "create": "Create New Menu",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-route": {
+    "name": "Name",
+    "description": "Description",
+    "alias": "Alias",
+    "create": "Create New Route",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-event-node": {
+    "name": "Name",
+    "description": "Description",
+    "path": "Path",
+    "create": "Create New Event Node",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-allergy": {
+    "name": "Name",
+    "type": "Type",
+    "create": "Add New Allergy",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-family-history": {
+    "name": "Name",
+    "create": "Add New Family History",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-medical-history": {
+    "name": "Name",
+    "create": "Add New Medical History",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-social-history": {
+    "name": "Name",
+    "choices": "Choices",
+    "create": "Add New Medical History",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-symptom": {
+    "name": "Name",
+    "create": "Add New Symptom",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-soap-objective-template": {
+    "name": "Name",
+    "default-value": "Default Value",
+    "create": "Add New Symptom",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-icd-10": {
+    "name": "Name EN",
+    "name-id": "Name ID",
+    "code": "Code",
+    "create": "Add New ICD-10",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-icd-9": {
+    "name": "Name (EN)",
+    "name-id": "Name (ID)",
+    "code": "Code",
+    "create": "Add New ICD-9",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-lab-category": {
+    "label": "Category",
+    "name": "Name",
+    "create": "Create New Lab Category",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-lab-subcategory": {
+    "label": "Subcategory",
+    "select-category": "Select Category",
+    "name": "Name",
+    "unit": "Unit",
+    "range": "Range",
+    "category": "Category",
+    "create": "Create New Lab Subcategory",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-radiology-category": {
+    "label": "Category",
+    "name": "Name",
+    "create": "Create New Radiology Category",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-radiology-subcategory": {
+    "label": "Subcategory",
+    "select-category": "Select Category",
+    "name": "Name",
+    "parent": "Parent",
+    "category": "Category",
+    "create": "Create New Radiology Subcategory",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-profession": {
+    "name": "Name",
+    "create": "Add New Profession",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-service": {
+    "label": "Service",
+    "name": "Name",
+    "type": "Type",
+    "description": "Description",
+    "create": "Create New Service",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-service-type": {
+    "label": "Service Type",
+    "name": "Name",
+    "description": "Description",
+    "create": "Create New Radiology Subcategory",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-payment-method": {
+    "name": "Name",
+    "description": "Description",
+    "alias": "Alias",
+    "create": "Create New Payment Method",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-patient-type": {
+    "name": "Name",
+    "create": "Create New Patient Type",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-institution": {
+    "label": "Institution",
+    "name": "Name",
+    "identity-number": "Identity Number",
+    "contact": "Contact",
+    "registration-code": "Registration Code",
+    "registration-status": "Registration Status",
+    "create": "Create New Institution",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-institution-type": {
+    "label": "Institution Type",
+    "name": "Name",
+    "alias": "Alias",
+    "create": "Create New Institution Type",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-department": {
+    "label": "Department",
+    "name": "Name",
+    "description": "Description",
+    "department-type": "Department Type",
+    "create": "Create New Department",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-department-type": {
+    "label": "Department Type",
+    "name": "Name",
+    "description": "Description",
+    "create": "Create Department Type",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-division": {
+    "name": "Name",
+    "description": "Description",
+    "create": "Create Division",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-service": {
+    "label": "Service",
+    "name": "Name",
+    "description": "Description",
+    "service-type": "Service Type",
+    "create": "Create New Service",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-service-type": {
+    "label": "Service Type",
+    "name": "Name",
+    "description": "Description",
+    "create": "Create Service Type",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-event-node": {
+    "name": "Name",
+    "description": "Description",
+    "path": "Path",
+    "create": "Create Division",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-fms": {
+    "name": "Name",
+    "description": "Description",
+    "create": "Create New FMS",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-employee": {
+    "name": "Name",
+    "employee-number": "Employee Number",
+    "profession": "Profession",
+    "fms": "FMS",
+    "contact": "Contact",
+    "status": "Status",
+    "registered-date": "Registered Date",
+    "create": "Create New Employee",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-role": {
+    "name": "Name",
+    "alias": "Alias",
+    "create": "Create New Role",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-lab-category": {
+    "category-name": "Category Name",
+    "subcategory-name": "Subcategory Name",
+    "unit": "Unit",
+    "range": "Range",
+    "create": "Add New Lab Category",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-radiology-category": {
+    "category-name": "Category Name",
+    "subcategory-name": "Subcategory Name",
+    "create": "Add New Radiology Category",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-payment-method": {
+    "name": "Name",
+    "alias": "Alias",
+    "account-info": "Account Info",
+    "description": "Description",
+    "status": "Status",
+    "create": "Add New Payment Method",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-cashier": {
+    "name": "Name",
+    "code": "Code",
+    "description": "Description",
+    "create": "Add New Cashier",
+    "more": "More",
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+}

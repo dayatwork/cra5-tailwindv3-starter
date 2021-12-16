@@ -1,0 +1,452 @@
+{
+  "login": {
+    "title": "Selamat Data",
+    "subtitle": "Masuk menggunakan akun anda",
+    "email": {
+      "label": "Email",
+      "error": {
+        "required": "Email harus diisi",
+        "invalid": "Email harus valid"
+      }
+    },
+    "password": {
+      "label": "Kata sandi",
+      "error": {
+        "required": "Password harus diisi"
+      }
+    },
+    "forgot-password": "Lupa kata sandi?",
+    "action": {
+      "label": "Masuk"
+    },
+    "helper": "Belum punya akun?",
+    "signup": "Daftar"
+  },
+  "menu": {
+    "dashboard": "Dasbor",
+    "bsc": {
+      "label": "Balanced Scorecard",
+      "business-process": "Proses Bisnis",
+      "learn-growth": "Pembelajaran & Pertumbuhan",
+      "customers": "Pelanggan",
+      "finance": "Keuangan"
+    },
+    "master": {
+      "label": "Data Master",
+      "application": "Aplikasi",
+      "menu": "Menu",
+      "route": "Route",
+      "event-node": "Event Node",
+      "allergy": "Alergi",
+      "family-history": "Riwayat Keluarga",
+      "medical-history": "Riwayat Medis",
+      "social-history": "Riwayat Sosial",
+      "symptom": "Gejala",
+      "soap-objective": "SOAP Objective",
+      "icd-10": "ICD-10",
+      "icd-9": "ICD-9",
+      "lab-category": "Kategori Lab",
+      "radiology-category": "Kategori Radiologi",
+      "profession": "Profesi",
+      "service": "Layanan",
+      "payment-method": "Metode Pembayaran",
+      "patient-type": "Tipe Pasien"
+    },
+    "institution": {
+      "label": "Pengaturan Institusi",
+      "institution": "Institusi",
+      "department": "Departemen",
+      "division": "Divisi",
+      "service": "Layanan",
+      "event-node": "Event Node",
+      "fms": "SMF",
+      "employee": "Karyawan",
+      "role": "Role",
+      "lab-category": "Kategori Lab",
+      "radiology-category": "Kategori Radiologi",
+      "payment-method": "Metode Pembayaran",
+      "cashier": "Kasir"
+    },
+    "divisions": "Divisi",
+    "departments": "Departemen",
+    "administration": {
+      "label": "Administrasi",
+      "service-schedule": "Jadwal Layanan"
+    },
+    "human-resources": {
+      "label": "SDM",
+      "staff": "Staf",
+      "staff-schedule": "Jadwal Staf"
+    },
+    "finance": {
+      "label": "Keuangan",
+      "service": "Layanan",
+      "pharmacy": "Farmasi"
+    },
+    "infrastructure": {
+      "label": "Sarana Prasarana"
+    },
+    "front-office": {
+      "label": "Front Office",
+      "registered-patient": "Pasient Terdaftar",
+      "appointment": "Janji Temu",
+      "payment": "Pembayaran"
+    },
+    "outpatient": {
+      "label": "Instalasi Rawat Jalan",
+      "scheduled": "Terjadwal",
+      "active": "Aktif",
+      "monitoring": "Monitoring",
+      "history": "Riwayat"
+    },
+    "pharmacy": {
+      "label": "Farmasi",
+      "drug-inventory": "Persediaan Obat",
+      "receipt": "Penerimaan Obat",
+      "packaging": "Pengemasan Obat",
+      "collect-medicine": "Pengambilan Obat"
+    },
+    "radiology": {
+      "label": "Radiologi"
+    },
+    "laboratory": {
+      "label": "Laboratorium"
+    },
+    "blood-center": {
+      "label": "Pusat Darah"
+    }
+  },
+  "table": {
+    "search": "Cari dari {{total}} data",
+    "page": "Halaman {{pageNumber}} dari {{totalPage}}",
+    "go-to-page": "Halaman",
+    "show": "Tampilkan",
+    "previous": "Sebelumnya",
+    "next": "Selanjutnya"
+  },
+  "select-application": "Pilih Aplikasi",
+  "select-menu": "Pilih Menu",
+  "master-application": {
+    "name": "Nama",
+    "description": "Deskripsi",
+    "platform": "Platform",
+    "create": "Buat Aplikasi Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-menu": {
+    "name": "Nama",
+    "description": "Deskripsi",
+    "alias": "Alias",
+    "create": "Buat Menu Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-route": {
+    "name": "Nama",
+    "description": "Deskripsi",
+    "alias": "Alias",
+    "create": "Buat Route Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-event-node": {
+    "name": "Nama",
+    "description": "Deskripsi",
+    "path": "Path",
+    "create": "Buat Event Node Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-allergy": {
+    "name": "Nama",
+    "type": "Tipe",
+    "create": "Tambahkan Alergi Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-family-history": {
+    "name": "Nama",
+    "create": "Tambahkan Riwayat Keluarga Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-medical-history": {
+    "name": "Nama",
+    "create": "Tambahkan Riwayat Medis Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-social-history": {
+    "name": "Nama",
+    "choices": "Pilihan",
+    "create": "Tambahkan Riwayat Medis Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-symptom": {
+    "name": "Nama",
+    "create": "Tambahkan Gejala Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-soap-objective-template": {
+    "name": "Nama",
+    "default-value": "Nilai Default",
+    "create": "Tambahkan Gejala Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-icd-10": {
+    "name": "Nama EN",
+    "name-id": "Nama ID",
+    "code": "Kode",
+    "create": "Tambahkan ICD-10 Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-icd-9": {
+    "name": "Nama (EN)",
+    "name-id": "Nama (ID)",
+    "code": "Kode",
+    "create": "Tambahkan ICD-9 Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-lab-category": {
+    "label": "Kategori",
+    "name": "Nama",
+    "create": "Buat Kategori Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-lab-subcategory": {
+    "label": "Subkategori",
+    "select-category": "Pilih Kategori",
+    "name": "Nama",
+    "unit": "Satuan",
+    "range": "Range",
+    "category": "Kategori",
+    "create": "Buat Subkategori Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-radiology-category": {
+    "label": "Kategori",
+    "name": "Nama",
+    "create": "Buat Kategori Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-radiology-subcategory": {
+    "label": "Subkategori",
+    "select-category": "Pilih Kategori",
+    "name": "Nama",
+    "parent": "Parent",
+    "category": "Kategori",
+    "create": "Buat Subkategori Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-profession": {
+    "name": "Nama",
+    "create": "Tambahkan Profesi Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-service": {
+    "label": "Layanan",
+    "name": "Nama",
+    "type": "Tipe",
+    "description": "Deskripsi",
+    "create": "Buat Layanan Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-service-type": {
+    "label": "Tipe Layanan",
+    "name": "Nama",
+    "description": "Deskripsi",
+    "create": "Buat Layanan Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-payment-method": {
+    "name": "Nama",
+    "description": "Deskripsi",
+    "alias": "Alias",
+    "create": "Buat Metode Pembayaran Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "master-patient-type": {
+    "name": "Nama",
+    "create": "Tambahkan Tipe Pasien",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-institution": {
+    "label": "Institusi",
+    "name": "Nama",
+    "identity-number": "Nomor Identitas",
+    "contact": "Kontak",
+    "registration-code": "Kode Registrasi",
+    "registration-status": "Status Registrasi",
+    "create": "Tambahkan Institusi Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-institution-type": {
+    "label": "Tipe Institusi",
+    "name": "Nama",
+    "alias": "Alias",
+    "create": "Buat Tipe Institusi Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-department": {
+    "label": "Departemen",
+    "name": "Nama",
+    "description": "Deskripsi",
+    "department-type": "Tipe Departemen",
+    "create": "Tambahkan Departemen Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-department-type": {
+    "label": "Tipe Departemen",
+    "name": "Nama",
+    "description": "Deskripsi",
+    "create": "Buat Tipe Departemen Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-division": {
+    "name": "Nama",
+    "description": "Deskripsi",
+    "create": "Tambahkan Divisi Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-service": {
+    "label": "Layanan",
+    "name": "Nama",
+    "description": "Deskripsi",
+    "service-type": "Tipe Layanan",
+    "create": "Tambahkan Layanan Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-service-type": {
+    "label": "Tipe Layanan",
+    "name": "Nama",
+    "description": "Deskripsi",
+    "create": "Buat Tipe Layanan Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-event-node": {
+    "name": "Nama",
+    "description": "Deskripsi",
+    "path": "Path",
+    "create": "Tambahkan Divisi Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-fms": {
+    "name": "Nama",
+    "description": "Deskripsi",
+    "create": "Tambahkan SMF Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-employee": {
+    "name": "Nama",
+    "employee-number": "Nomor Karyawan",
+    "profession": "Profesi",
+    "fms": "SMF",
+    "contact": "Kontak",
+    "status": "Status",
+    "registered-date": "Tanggal Terdaftar",
+    "create": "Tambahkan Karyawan Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-role": {
+    "name": "Nama",
+    "alias": "Alias",
+    "create": "Buat Role Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-lab-category": {
+    "category-name": "Nama Kategori",
+    "subcategory-name": "Nama Subkategori",
+    "unit": "Satuan",
+    "range": "Range",
+    "create": "Tambahkan Kategori Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-radiology-category": {
+    "category-name": "Nama Kategori",
+    "subcategory-name": "Nama Subkategori",
+    "create": "Tambahkan Kategori Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-payment-method": {
+    "name": "Nama",
+    "alias": "Alias",
+    "account-info": "Info Akun",
+    "description": "Deskripsi",
+    "status": "Status",
+    "create": "Tambahkan Metode Pembayaran",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "institution-management-cashier": {
+    "name": "Nama",
+    "code": "Kode",
+    "description": "Deskripsi",
+    "create": "Tambahkan Kasir Baru",
+    "more": "Lainnya",
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+}
